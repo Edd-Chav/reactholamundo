@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Edd-Chav/reactholamundo/static/css/main.f855e6bc.css",
+    "main.js": "/Edd-Chav/reactholamundo/static/js/main.dfef66d6.js",
+    "static/js/453.6ce20969.chunk.js": "/Edd-Chav/reactholamundo/static/js/453.6ce20969.chunk.js",
+    "static/media/foto.jpg": "/Edd-Chav/reactholamundo/static/media/foto.c45e0712c03a3c622467.jpg",
+    "index.html": "/Edd-Chav/reactholamundo/index.html",
+    "main.f855e6bc.css.map": "/Edd-Chav/reactholamundo/static/css/main.f855e6bc.css.map",
+    "main.dfef66d6.js.map": "/Edd-Chav/reactholamundo/static/js/main.dfef66d6.js.map",
+    "453.6ce20969.chunk.js.map": "/Edd-Chav/reactholamundo/static/js/453.6ce20969.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.dfef66d6.js"
+  ]
+}
