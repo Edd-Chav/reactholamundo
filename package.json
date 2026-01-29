@@ -1,7 +1,7 @@
 {
   "name": "chavez_guerrero",
   "version": "0.1.0",
-  "homepage": "https://github.com/Edd-Chav/reactholamundo",
+  "homepage": "https://github.com/Edd-Chav/react",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
